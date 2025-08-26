@@ -17,8 +17,8 @@
 
 ## 💪 Why I Built This
 
-I built this to express that *coding is art, creativity, and logic—all in one.*  
-This simple cover page is a reminder that behind every piece of code is *a creator with purpose.*
+I built this to express that **coding is art, creativity, and logic—all in one.**  
+This simple cover page is a reminder that behind every piece of code is **a creator with purpose.**
 
 ---
 
